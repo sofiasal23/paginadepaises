@@ -1,0 +1,6 @@
+@charset "utf-8";
+.imagenfondo1 {
+    background-image: url(../img/comida1.jpg);
+    background-position: center center;
+    background-size: cover;
+}
